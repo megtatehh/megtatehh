@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Meg
-- 💞️ My git hub account is simply for playing around with code.
+- 💞️ This account is simply for playing around with code.
 - 📫 How to reach me - <a href="https://www.linkedin.com/in/meganhharris/">LinkedIn</a>
 
 <!---
